@@ -10,6 +10,7 @@ public class SpringBootDemoApplication {
         SpringApplication.run(SpringBootDemoApplication.class, args);
         System.out.println("------₍ᐢ •͈ ༝ •͈ ᐢ₎    Spring Boot Demo started !   -------");
         System.out.println("master");
+        System.out.println("develop分支");
     }
 
 }
